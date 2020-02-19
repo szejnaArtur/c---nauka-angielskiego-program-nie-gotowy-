@@ -1,0 +1,24 @@
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\bin\Debug\EngLaern.exe.config
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\bin\Debug\EngLaern.exe
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\bin\Debug\EngLaern.pdb
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.csprojResolveAssemblyReference.cache
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.Properties.Resources.resources
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.csproj.GenerateResource.Cache
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.exe
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.pdb
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Menu.resources
+c:\users\artur\documents\visual studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Lesson.resources
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.Form_AddLesson.resources
+C:\Users\Artur\Documents\Visual Studio 2013\Projects\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Editor.resources
+K:\PenDrive\C#\EngLaern\EngLaern\bin\Debug\EngLaern.exe.config
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.exe
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.pdb
+K:\PenDrive\C#\EngLaern\EngLaern\bin\Debug\EngLaern.exe
+K:\PenDrive\C#\EngLaern\EngLaern\bin\Debug\EngLaern.pdb
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.csprojResolveAssemblyReference.cache
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Menu.resources
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.Form_AddLesson.resources
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Editor.resources
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.Form_Lesson.resources
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.Properties.Resources.resources
+K:\PenDrive\C#\EngLaern\EngLaern\obj\Debug\EngLaern.csproj.GenerateResource.Cache

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Lekcje>
+  <Lekcja name="Kolory">
+    <word PLword="czerwony" ENGword="red" />
+    <word PLword="zielony" ENGword="green" />
+    <word PLword="niebieski" ENGword="blue" />
+    <word PLword="żółty" ENGword="yellow" />
+    <word PLword="biały" ENGword="white" />
+    <word PLword="złoty" ENGword="golden" />
+    <word PLword="pomarańczowy" ENGword="orange" />
+    <word PLword="karmazynowy" ENGword="crimson" />
+    <word PLword="szkarłatny" ENGword="scarlet" />
+    <word PLword="bordo" ENGword="claret" />
+    <word PLword="fioletowy" ENGword="violet" />
+    <word PLword="purpurowy" ENGword="purple" />
+    <word PLword="oliwkowy" ENGword="olive" />
+    <word PLword="kasztanowy" ENGword="maroon" />
+    <word PLword="szary" ENGword="grey" />
+    <word PLword="srebrny" ENGword="silver" />
+    <word PLword="różowy" ENGword="pink" />
+  </Lekcja>
+  <Lekcja name="Pojazdy">
+    <word PLword="taksówka" ENGword="taxi" />
+    <word PLword="motorówka " ENGword="motorboat" />
+    <word PLword="statek " ENGword="ship" />
+    <word PLword="prom " ENGword="ferry" />
+    <word PLword="motor" ENGword="motorbike" />
+    <word PLword="wagon" ENGword="carriage" />
+    <word PLword="łódź" ENGword="boat" />
+    <word PLword="samochód " ENGword="car" />
+    <word PLword="karawan" ENGword="caravan" />
+    <word PLword="autobus" ENGword="bus" />
+    <word PLword="autokar" ENGword="coach" />
+    <word PLword="ciężarówka" ENGword="lorry" />
+    <word PLword="helikopter" ENGword="helicopter" />
+    <word PLword="karetka pogotowia" ENGword="ambulance" />
+    <word PLword="pociąg" ENGword="train" />
+    <word PLword="rower" ENGword="bike" />
+    <word PLword="samolot" ENGword="plane" />
+    <word PLword="żaglówka" ENGword="sailing boat" />
+  </Lekcja>
+  <Lekcja name="Liczby">
+    <word PLword="jeden" ENGword="one" />
+    <word PLword="dwa" ENGword="two" />
+    <word PLword="trzy" ENGword="three" />
+    <word PLword="cztery" ENGword="four" />
+    <word PLword="pięć" ENGword="five" />
+    <word PLword="sześć" ENGword="six" />
+    <word PLword="siedem" ENGword="seven" />
+    <word PLword="osiem" ENGword="eight" />
+    <word PLword="dziewięć" ENGword="nine" />
+    <word PLword="dziesięć" ENGword="ten" />
+  </Lekcja>
+  <Lekcja name="x">
+    <word PLword="1" ENGword="1" />
+  </Lekcja>
+</Lekcje>
